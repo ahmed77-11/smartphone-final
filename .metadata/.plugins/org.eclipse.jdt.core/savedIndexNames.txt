@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+C:\Users\morta\OneDrive\Documents\2éme année\Java Avencée\javaFx-mini-projet-master\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
+2898577124.index
+1651682968.index
+624201788.index
+431674586.index
+3355180426.index
+1865797976.index
+2470767495.index
+3413943797.index
+4266291838.index

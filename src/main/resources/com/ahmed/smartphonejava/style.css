@@ -1,0 +1,5 @@
+.custom-table-view {
+    -fx-background-color: #f0f0f0; /* Set background color */
+    -fx-text-background-color: white; /* Set text background color */
+    -fx-text-fill: black; /* Set text color */
+}
